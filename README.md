@@ -1,1 +1,1 @@
-# NATS_monitoring
+# примеры docker-compose.yaml, prometheus.yml для мониторинга NATS
